@@ -1,0 +1,5 @@
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.Helper\bin\Debug\Sample.App.Helper.dll
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.Helper\bin\Debug\Sample.App.Helper.pdb
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.Helper\obj\Debug\Sample.App.Helper.dll
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.Helper\obj\Debug\Sample.App.Helper.pdb
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.Helper\obj\Debug\Sample.App.Helper.csprojResolveAssemblyReference.cache

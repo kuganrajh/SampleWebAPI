@@ -1,0 +1,14 @@
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\bin\Debug\Sample.App.DAL.dll.config
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\bin\Debug\Sample.App.DAL.dll
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\bin\Debug\Sample.App.DAL.pdb
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\bin\Debug\EntityFramework.dll
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\bin\Debug\Sample.App.BO.dll
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\bin\Debug\Sample.App.BO.pdb
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\bin\Debug\EntityFramework.xml
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\obj\Debug\Sample.App.DAL.csprojResolveAssemblyReference.cache
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\obj\Debug\Sample.App.DAL.dll
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\obj\Debug\Sample.App.DAL.pdb
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\obj\Debug\Sample.App.DAL.Migrations.ini.resources
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.DAL\obj\Debug\Sample.App.DAL.csproj.GenerateResource.Cache

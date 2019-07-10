@@ -1,0 +1,4 @@
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.BO\bin\Debug\Sample.App.BO.dll
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.BO\bin\Debug\Sample.App.BO.pdb
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.BO\obj\Debug\Sample.App.BO.dll
+c:\users\kugan\documents\visual studio 2015\Projects\Sample.App.WebApi\Sample.App.BO\obj\Debug\Sample.App.BO.pdb
